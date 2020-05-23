@@ -28,7 +28,7 @@ File -> Import -> Maven -> Existing Maven project
 
 1) Once the application is installed properly, Run as Java Application
 2) Once the service has started, you’ll see a line that reads:
-   >> result = Hello, Spring!
+    `` >>result = Hello, Spring!``
 3) Now that the application is running, you can test it. To start with, you can open a browser and go to http://localhost:8080/hello and see, "Hello, Spring!" For this guide, we also created a test class to get you started on testing with the WebTestClient class.
    
 # Contributing
